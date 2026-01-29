@@ -1,0 +1,10 @@
+{{- $id := .Get "id" -}}
+{{- $username := .Get "username" | default "me" -}}
+{{- $date_format := .Get "date_format" | default "January 2006" -}}
+{{- $is_education_first := .Get "is_education_first" | default "false" -}}
+
+{{- $content := dict "username" $username -}}
+{{- $design := dict "date_format" $date_format "is_education_first" (eq $is_education_first "true") -}}
+{{- $block := dict "block" "resume-experience" "id" $id "content" $content "design" $design -}}
+
+{{- partial "functions/parse_block_v3" (dict "page" .Page "block" $block) -}}

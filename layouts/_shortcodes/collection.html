@@ -1,0 +1,18 @@
+{{- $id := .Get "id" -}}
+{{- $title := .Get "title" -}}
+{{- $view := .Get "view" | default "citation" -}}
+{{- $folder := .Get "folder" | default "publications" -}}
+
+{{- $filters := dict "folders" (slice $folder) -}}
+{{- with .Get "publication_type" -}}
+  {{- $filters = merge $filters (dict "publication_type" .) -}}
+{{- end -}}
+{{- with .Get "tag" -}}
+  {{- $filters = merge $filters (dict "tag" .) -}}
+{{- end -}}
+
+{{- $content := dict "title" $title "filters" $filters -}}
+{{- $design := dict "view" $view -}}
+{{- $block := dict "block" "collection" "id" $id "content" $content "design" $design -}}
+
+{{- partial "functions/parse_block_v3" (dict "page" .Page "block" $block) -}}

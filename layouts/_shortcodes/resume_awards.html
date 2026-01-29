@@ -1,0 +1,10 @@
+{{- $id := .Get "id" -}}
+{{- $title := .Get "title" -}}
+{{- $username := .Get "username" | default "me" -}}
+{{- $date_format := .Get "date_format" | default "January 2006" -}}
+
+{{- $content := dict "title" $title "username" $username -}}
+{{- $design := dict "date_format" $date_format -}}
+{{- $block := dict "block" "resume-awards" "id" $id "content" $content "design" $design -}}
+
+{{- partial "functions/parse_block_v3" (dict "page" .Page "block" $block) -}}

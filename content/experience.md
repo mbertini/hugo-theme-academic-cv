@@ -1,34 +1,14 @@
 ---
-title: 'Esperienza'
+title: 'Experience'
 date: 2023-10-24
-type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: markdown
-    content:
-      title: ''
-      text: |-
-        ![Universita degli Studi di Firenze](/images/logo/Logo_Dinfo_web.png)
-        ![MICC logo](/images/logo/LOGOUNIFI_DINFO_MICC_inverted.png)
-        ![Small Pixels logo](/images/logo/smallpixels_logo_white.svg)
-    design:
-      columns: '1'
-  - block: resume-experience
-    content:
-      username: me
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-awards
-    content:
-      title: Premi e riconoscimenti
-      username: me
+layout: single
+toc: true
 ---
+
+## Experience
+
+{{< resume_experience id="experience" username="me" date_format="January 2006" is_education_first="false" >}}
+
+## Awards and honors
+
+{{< resume_awards id="awards-and-honors" title="Awards and honors" username="me" >}}

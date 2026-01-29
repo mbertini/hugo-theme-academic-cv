@@ -1,19 +1,19 @@
 ---
 title: MICC - Media Integration and Communication Center
-summary: Centro di eccellenza nazionale per la ricerca su media, computer vision e interazione.
+summary: National center of excellence for research on media, computer vision, and interaction.
 date: 2020-03-02
 links:
   - type: site
     url: https://www.micc.unifi.it/
 tags:
-  - Centro di ricerca
-  - Ricerca
+  - Research center
+  - Research
 ---
 
-![MICC logo](/images/logo/LOGOUNIFI_DINFO_MICC_inverted.png)
+<img src="/images/logo/LOGOUNIFI_DINFO_MICC_inverted.png" alt="MICC logo" width="240" />
 
-Direttore del MICC dal 2/3/2020.
+Director of MICC since 2/3/2020.
 
 <!--more-->
 
-Centro di ricerca e trasferimento tecnologico su media, computer vision e interazione uomo-macchina.
+Research and technology transfer center on media, computer vision, and human-machine interaction.

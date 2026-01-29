@@ -17,7 +17,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Curriculum completo
+        text: Full CV
         url: /cv/
       headings:
         about: ''
@@ -39,26 +39,16 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: ''
-      text: |-
-        ![Universita degli Studi di Firenze](/images/logo/Logo_Dinfo_web.png)
-        ![MICC logo](/images/logo/LOGOUNIFI_DINFO_MICC_inverted.png)
-        ![Small Pixels logo](/images/logo/smallpixels_logo_white.svg)
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: 'Ricerca'
+      title: 'Research'
       subtitle: ''
       text: |-
-        Attivita di ricerca nel campo della computer vision e dei sistemi multimediali,
-        con particolare attenzione a retrieval, analisi di immagini e video, e applicazioni
-        per l'interazione uomo-macchina.
+        Research activity in computer vision and multimedia systems, with a focus on retrieval,
+        image and video analysis, and human-machine interaction.
     design:
       columns: '1'
   - block: collection
     content:
-      title: Pubblicazioni su rivista
+      title: Journal Publications
       text: ''
       filters:
         folders:
@@ -68,7 +58,7 @@ sections:
       view: citation
   - block: collection
     content:
-      title: Pubblicazioni in conferenza
+      title: Conference Publications
       text: ''
       filters:
         folders:

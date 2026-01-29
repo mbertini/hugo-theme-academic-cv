@@ -1,31 +1,43 @@
 ---
 title: "Marco Bertini"
-summary: "Curriculum dell'attivita scientifica e didattica"
+summary: "Curriculum of scientific and teaching activity"
 toc: true
 ---
 
-![Universita degli Studi di Firenze](/images/logo/Logo_Dinfo_web.png)
+<img src="/images/logo/Logo_Dinfo_web.png" alt="University of Florence logo" width="240" />
 
+**On this page**
+- [Personal data](#personal-data)
+- [Awards and honors](#awards-and-honors)
+- [Education and qualifications](#education-and-qualifications)
+- [Teaching activity](#teaching-activity)
+- [Other teaching activities](#other-teaching-activities)
+- [Thesis and PhD supervision](#thesis-supervision)
+- [Service roles](#service-roles)
+- [Service by year](#service-by-year)
+- [Professional activity](#professional-activity)
+- [Research activities and interests](#research-activities)
+- [Publications list](#publications-list)
 
-Professore Associato per il settore scientifico-disciplinare ING-INF/05
+Associate Professor for scientific sector ING-INF/05
 
-presso l'Università degli Studi di Firenze
+at the University of Florence
 
-**Curriculum dell'attività scientifica e didattica**
+**Curriculum of scientific and teaching activity**
 
-**con elenco completo delle pubblicazioni**
+**with complete list of publications**
 
-## Dati personali
+## Personal data {#personal-data}
 
-Luogo e data di nascita: Pisa, 25 giugno 1970, C.F. BRTMRC70H25G702A
+Place and date of birth: Pisa, 25 June 1970, Tax code BRTMRC70H25G702A
 
-Stato civile: coniugato (2004)
+Marital status: married (2004)
 
-Abitazione: Via Zanobi da Strada 15/6, 50126 Firenze
+Address: Via Zanobi da Strada 15/6, 50126 Florence
 
-Lavoro: Dipartimento di Ingegneria dell'Informazione
+Work: Department of Information Engineering
 
-Via S. Marta 3, 50139 Firenze
+Via S. Marta 3, 50139 Florence
 
 ## Tel. 055-275 8645 Fax 055-275 1396
 
@@ -33,117 +45,116 @@ Via S. Marta 3, 50139 Firenze
 
 <http://www.micc.unifi.it/bertini>
 
-Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base art. 13 del D. Lgs. 196/2003
+I authorize the processing of personal data contained in my CV according to art. 13 of Legislative Decree 196/2003.
 
-Ruolo
+Role
 
-- Da novembre 2023 a novembre 2025: membro CdA spin-off universitario "Small Pixels"
-- Dal 22/9/2020: co-fondatore spin-off universitario "Small Pixels"
-- Dal 2/3/2020: direttore del Centro per la Comunicazione e Integrazione dei Media - MICC dell'Università degli Studi di Firenze.
-- Dal 1/10/2015: Professore Associato
-- Dal 1/12/2010 al 30/9/2015: Ricercatore TI confermato
-- Dal 1/12/2007 al 30/11/2010: Ricercatore TI non confermato
-- 2000 - Titolare di Assegno di Ricerca dal 2000 al 2007.
-- 1999 - Responsabile tecnico dei laboratori del Master in Multimedia dell'Università di Firenze.
-- 1999 - Tutor del Master in Multimedia dell'Università di Firenze.
-- Dal 15/4/2015 membro del collegio docenti del dottorato di Ingegneria dell'Informazione dell'Università degli Studi di Firenze
-- Dal 6/3/2023 referente per il Trasferimento Tecnologico del Dipartimento di Ingegneria dell'Informazione
-- Dal 15/11/2024: membro della Commissione Comunicazione e Public Engagement del Dipartimento di Ingegneria dell'Informazione
+- Nov 2023 to Nov 2025: Board member of the university spin-off "Small Pixels"
+- Since 22/09/2020: co-founder of the university spin-off "Small Pixels"
+- Since 2/3/2020: director of the Media Integration and Communication Center - MICC, University of Florence
+- Since 1/10/2015: Associate Professor
+- From 1/12/2010 to 30/9/2015: Tenured Researcher
+- From 1/12/2007 to 30/11/2010: Researcher (non-tenured)
+- 2000 - Research Fellowship holder from 2000 to 2007
+- 1999 - Technical coordinator of the Master in Multimedia laboratories, University of Florence
+- 1999 - Tutor of the Master in Multimedia, University of Florence
+- Since 15/4/2015: member of the PhD program in Information Engineering, University of Florence
+- Since 6/3/2023: Technology Transfer representative for the Department of Information Engineering
+- Since 15/11/2024: member of the Communication and Public Engagement Commission, Department of Information Engineering
 
-## Premi e riconoscimenti
+## Awards and honors {#awards-and-honors}
 
-- 2022 - Vincitore di Best Demo Honorable Mention per "Engaging museum visitors with gamification of body and facial expressions", Proc. of ACM Multimedia (MM), Lisbona, Portogallo
-- 2022 - Vincitore di Best Demo Honorable Mention per "Effective conditioned and composed image retrieval combining CLIP-based features", Proc. of IEEE/CVF Computer Vision and Pattern Recognition (CVPR), New Orleans, USA
-- 2021 - Vincitore di Best Paper Award per "Language Based Image Quality Assessment", Proc. of ACM Multimedia Asia (ACM MM Asia), Gold Coast, Australia
-- 2020 - Vincitore del premio Huawei alla Borsa della Ricerca 2020, con lo spin-off "Small Pixels"
-- 2020 - Vincitore di Best Poster Paper Award per "Image Retrieval Using Multi-Scale CNN Feature Pooling", _Proc. of ACM International Conference on Multimedia Retrieval (ICMR) 2020_, Dublin, Ireland
-- 2019 - Vincitore di Best Demo Award per "Fast Video Quality Enhancement using GANs," _Proc. of ACM Multimedia (ACM MM) 2019,_ Nizza, Francia
-- 2019 - Vincitore di Best Student Paper Honorable Mention per "Domain Adaptation for Privacy-Preserving Pedestrian Detection in Thermal Imagery," _Proc. of International Conference on Image Analysis and Processing (ICIAP) 2019_, Trento, Italia
-- 2019 - Startup finalista al concorso StartCup Italia con lo spin-off "Small Pixels"
-- 2019 - Secondo Premio al concorso StartCup Toscana con lo spin-off "Small Pixels"
-- 2019 - Primo Premio "Are you the next change-maker?" evento ManagerItalia Toscana con lo spin-off "Small Pixels"
-- 2010 - Vincitore di Best Paper Award per "Tag suggestion and localization in user-generated videos based on social knowledge," _Proc. of ACM-MM International Workshop on Social Media (WSM)_, Firenze, Italy, 2010
-- 2018 - Vincita bando dell'Incubatore Universitario Fiorentino (16° Ciclo) per pre-incubazione spin-off "Small Pixels"
-- 2012 - Ottenimento "Certificate of Appreciation for Supporting the Organization of the 12<sup>th</sup> European Conference on Computer Vision - ECCV 2012" per il lavoro svolto per la 12<sup>ª</sup> conferenza europea sulla computer vision
-- 2010 - Ottenimento "Certificate of Appreciation for the outstanding technical support for the paper submission and reviewing process" dell'ACM per il lavoro svolto per la 18° International Conference ACM Multimedia 2010 (ACM MM'10)
-- 1999 - Ottenimento "Certificate of Appreciation for excellent equipment and technical support" della IEEE Computer Society per il lavoro svolto per la IEEE International Conference on Multimedia Computing and Systems (ICMCS'99).
+- 2022 - Best Demo Honorable Mention for "Engaging museum visitors with gamification of body and facial expressions", Proc. of ACM Multimedia (MM), Lisbon, Portugal
+- 2022 - Best Demo Honorable Mention for "Effective conditioned and composed image retrieval combining CLIP-based features", Proc. of IEEE/CVF Computer Vision and Pattern Recognition (CVPR), New Orleans, USA
+- 2021 - Best Paper Award for "Language Based Image Quality Assessment", Proc. of ACM Multimedia Asia (ACM MM Asia), Gold Coast, Australia
+- 2020 - Huawei Research Grant Award 2020, with the spin-off "Small Pixels"
+- 2020 - Best Poster Paper Award for "Image Retrieval Using Multi-Scale CNN Feature Pooling", Proc. of ACM International Conference on Multimedia Retrieval (ICMR) 2020, Dublin, Ireland
+- 2019 - Best Demo Award for "Fast Video Quality Enhancement using GANs", Proc. of ACM Multimedia (ACM MM) 2019, Nice, France
+- 2019 - Best Student Paper Honorable Mention for "Domain Adaptation for Privacy-Preserving Pedestrian Detection in Thermal Imagery", Proc. of International Conference on Image Analysis and Processing (ICIAP) 2019, Trento, Italy
+- 2019 - Startup finalist at StartCup Italia with the spin-off "Small Pixels"
+- 2019 - Second Prize at StartCup Toscana with the spin-off "Small Pixels"
+- 2019 - First Prize "Are you the next change-maker?" ManagerItalia Toscana event with the spin-off "Small Pixels"
+- 2010 - Best Paper Award for "Tag suggestion and localization in user-generated videos based on social knowledge", Proc. of ACM-MM International Workshop on Social Media (WSM), Florence, Italy, 2010
+- 2018 - Winner of the University Incubator call (16th cycle) for the pre-incubation of the spin-off "Small Pixels"
+- 2012 - Certificate of Appreciation for Supporting the Organization of the 12th European Conference on Computer Vision - ECCV 2012
+- 2010 - Certificate of Appreciation for the outstanding technical support for the paper submission and reviewing process, ACM Multimedia 2010
+- 1999 - Certificate of Appreciation for excellent equipment and technical support, IEEE International Conference on Multimedia Computing and Systems (ICMCS'99)
 
-## Titoli di studio e abilitazioni
+## Education and qualifications {#education-and-qualifications}
 
-- 2021 - Conseguimento dell'Abilitazione Scientifica nazionale (ASN) 2018-6° sessione per la I<sup>a</sup> fascia nel settore 01/B1 Informatica (Indic. 1: 17; Indic. 2: 1528; indic. 3: 22 - soglie rispettive: 9, 304 e 10)
-- 2017 - Conseguimento dell'Abilitazione Scientifica nazionale (ASN) 2016-3° sessione per la I<sup>a</sup> fascia nel settore 09/H1 Sistemi di elaborazione delle informazioni (Indic. 1: 18; Indic. 2: 1340; indic. 3: 19 - soglie rispettive: 11, 307 e 9)
-- 2013 - Conseguimento dell'Abilitazione Scientifica nazionale (ASN) 2012 per la II<sup>a</sup> fascia nel settore 09/H1 Sistemi di elaborazione delle informazioni
-- 2004 - Consegue il titolo di Dottore di ricerca in Ingegneria Informatica e delle Comunicazioni presso l'Università degli studi di Firenze (il 21/09/2004), discutendo una tesi dal titolo "Video analysis and annotation: the case of sports videos" (supervisore: prof. A. Del Bimbo).
-- 1999 - Abilitazione all'esercizio della professione di ingegnere presso l'Università degli Studi di Firenze.
-- 1999 - Laurea in Ingegneria Elettronica presso l'Università degli Studi di Firenze (il 11/1/1999) discutendo una tesi dal titolo "Annotazione automatica di notiziari video" (relatori: proff. A. Del Bimbo e G. Bucci).
+- 2021 - National Scientific Qualification (ASN) 2018-6th session for Full Professor in sector 01/B1 Computer Science (Indicator 1: 17; Indicator 2: 1528; Indicator 3: 22 - thresholds 9, 304, 10)
+- 2017 - National Scientific Qualification (ASN) 2016-3rd session for Full Professor in sector 09/H1 Information Processing Systems (Indicator 1: 18; Indicator 2: 1340; Indicator 3: 19 - thresholds 11, 307, 9)
+- 2013 - National Scientific Qualification (ASN) 2012 for Associate Professor in sector 09/H1 Information Processing Systems
+- 2004 - PhD in Computer Engineering and Telecommunications, University of Florence (21/09/2004), dissertation: "Video analysis and annotation: the case of sports videos" (advisor: prof. A. Del Bimbo)
+- 1999 - Professional qualification as engineer, University of Florence
+- 1999 - MS in Electronic Engineering, University of Florence (11/1/1999), thesis: "Automatic annotation of news videos" (advisors: prof. A. Del Bimbo and G. Bucci)
 
-### Affiliazioni
+### Affiliations
 
-- Membro del centro di eccellenza nazionale MICC (Media Integration and Communication Center) dell'Università di Firenze.
-- Membro dell'associazione Associazione Italiana per la ricerca in Computer Vision,  
-  Pattern recognition e machine Learning (CVPL- ex-GIRPR), associata a IAPR (International Association for Pattern Recognition).
-- Membro ACM (Association for Computing Machinery)
-- Membro IEEE (Institute of Electrical and Electronic Engineers)
+- Member of the national center of excellence MICC (Media Integration and Communication Center) of the University of Florence
+- Member of the Italian Association for Computer Vision Research, Pattern Recognition and Machine Learning (CVPL - ex-GIRPR), associated to IAPR (International Association for Pattern Recognition)
+- ACM member (Association for Computing Machinery)
+- IEEE member (Institute of Electrical and Electronic Engineers)
 
-### Attività didattica
+### Teaching activity {#teaching-activity}
 
-- Titolare del corso "Parallel Programming for Machine Learning" (6 CFU - 48 ore), I° anno corso di Laurea Magistrale Intelligenza Artificiale, Scuola di Ingegneria, Università di Firenze, a.a. 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022
-- Titolare del corso "Programmazione" (6 CFU - 54 ore), I° anno Ingegneria Informatica, Scuola di Ingegneria, Università di Firenze, a.a. 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, 2016-2017, 2015-2016
-- Titolare del corso "Progettazione e Produzione Multimediale" (6 CFU - 54 ore), III° anno Ingegneria Informatica, Scuola di Ingegneria, Università di Firenze, a.a. 2025-2026, 2024-2025, 2023-2024, 2022-2023
-- Titolare del corso "Parallel Computing" (9 CFU - 72 ore), I° anno corso di Laurea Magistrale Ingegneria Informatica, Scuola di Ingegneria, Università di Firenze, a.a. 2020-2021, 2019-2020, 2018-2019, 2017-2018, 2016-2017, 2015-2016
-- Titolare del corso "Laboratorio di programmazione" (3 CFU - 27 ore), I° anno Ingegneria Informatica, Scuola di Ingegneria, Università di Firenze, a.a. 2023-2024, 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, 2016-2017, 2015-2016
-- Titolare del corso "Laboratorio di Tecnologie dell'Informazione" (6 CFU - 54 ore), I° anno Ingegneria Informatica, Facoltà di Ingegneria, Università di Firenze, a.a. 2014-2015, 2013-2014, 2012-2013, 2011-2012, 2010-2011, 2009-2010, 2008-2009
-- Titolare del corso "Introduction to Generative Adversarial Networks", corso di dottorato "Smart Computing" e "Ingegneria dell'Informazione" (4 CFU - 16 ore), Scuola di Ingegneria, Università di Firenze, a.a. 2019-2020
-- Titolare del corso "GPU Programming basics", corso di dottorato "Smart Computing" e "Ingegneria dell'Informazione" (4 CFU - 16 ore), Scuola di Ingegneria, Università di Firenze, a.a. 2017-2018, 2016-2017
-- Titolare del corso "Computer Vision and Deep Learning in Practice", corso di dottorato "Smart Computing" e "Ingegneria dell'Informazione" (3 CFU - 12 ore), Scuola di Ingegneria, Università di Firenze, a.a. 2021-2022, 2020-2021
-- Titolare del corso "Introduction to Deep Learning with Keras", corso di dottorato "Smart Computing" e "Ingegneria dell'Informazione" (4 CFU - 16 ore), Scuola di Ingegneria, Università di Firenze, a.a. 2019-2020, 2017-2018
-- Docenza incaricata al corso "Video editing" (24 ore) nell'ambito del Master in Multimedia organizzato da Università di Firenze a.a. 2013-2014, 2012-2013, 2011-2012, 2010-2011, 2009-2010, 2008-2009, 2007-2008, 2006-2007, 2005-2006, 2004-2005, 2003-2004, 2002-2003, 2001-2002, 2000-2001, 1999-2000.
-- Titolare del corso "Fondamenti di Informatica I" (6 CFU), I anno Ingegneria dell'Informazione, Facoltà di Ingegneria, Università di Firenze (Polo di Prato), a.a. 2007-2008
-- Docenza incaricata al corso "Fondamenti di Informatica" (3 CFU - 24 ore), I anno design industriale, Facoltà di Architettura, Università di Firenze, a.a. 2002-2003.
-- Docenza incaricata al corso "Sistemi di elaborazione delle informazioni" (1 CFU), III anno fisioterapia, Facoltà di Medicina, Università di Firenze, a.a. 2009-2010, 2008-2009, 2007-2008, 2006-2007.
-- Titolare del corso "Informatica" (1 CFU - 8 ore), I anno scuola di specializzazione in Chirurgia Generale, Facoltà di Medicina, Università di Firenze, a.a. 2013-2014, 2012-2013, 2011-2012, 2010-2011
-- Docenza incaricata al corso "Preparazione alla certificazione Cisco CCNA" nell'ambito del Master in Multimedia organizzato da Università di Firenze a.a. 2003-2004, 2002-2003.
-- Docenza incaricata al corso "Linguaggi di Markup" nell'ambito del Master in Multimedia organizzato da Università di Firenze a.a. 2003-2004, 2002-2003, 2001-2002.
-- Docenza incaricata al corso "Handheld devices programming" nell'ambito del Master in Multimedia organizzato da Università di Firenze a.a. 2004-2005, 2003-2004, 2002-2003, 2001-2002.
-- Docente incaricato del corso "Unix di base" nell'ambito del Master in Multimedia organizzato da Università di Firenze a.a. 1999-2000.
-- Attività didattica di supporto al corso "Database Multimediali" (prof. A. Del Bimbo), IV anno ing. elettronica, ing. delle telecomunicazioni ed ing. informatica, Facoltà di Ingegneria, Università di Firenze, a.a. 2014-2015, 2013-2014, 2012-2013, 2011-2012, 2010-2011, 2009-2010, 2008-2009, 2007-2008, 2006-2007, 2005-2006, 2004-2005, 2003-2004.
-- Attività didattica di supporto al corso "Progettazione e Produzione Multimediale" (prof. A. Del Bimbo), III anno ing. informatica, Facoltà di Ingegneria, Università di Firenze, a.a. 2014-2015, 2011-2012, 2010-2011, 2009-2010, 2008-2009, 2007-2008, 2006-2007, 2005-2006, 2004-2005, 2003-2004, 2002-2003.
-- Attività didattica di supporto al corso "Sistemi di Elaborazione" (Ing. S. Berretti), V anno previgente ordinamento, cdl Ing. Informatica, Ing. Telecomunicazioni, Facoltà di Ingegneria, Università di Firenze, a.a. 2004-2005, 2002-2003.
-- Attività didattica di supporto al corso "Sistemi di Elaborazione" (Ing. P. Pala), IV anno ing. elettronica, ing. delle telecomunicazioni ed ing. informatica, Facoltà di Ingegneria, Università di Firenze, a.a. 2001-2002.
+- Course leader "Parallel Programming for Machine Learning" (6 CFU - 48 hours), 1st year MSc Artificial Intelligence, School of Engineering, University of Florence, AY 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022
+- Course leader "Programming" (6 CFU - 54 hours), 1st year Computer Engineering, School of Engineering, University of Florence, AY 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, 2016-2017, 2015-2016
+- Course leader "Multimedia Design and Production" (6 CFU - 54 hours), 3rd year Computer Engineering, School of Engineering, University of Florence, AY 2025-2026, 2024-2025, 2023-2024, 2022-2023
+- Course leader "Parallel Computing" (9 CFU - 72 hours), 1st year MSc Computer Engineering, School of Engineering, University of Florence, AY 2020-2021, 2019-2020, 2018-2019, 2017-2018, 2016-2017, 2015-2016
+- Course leader "Programming Lab" (3 CFU - 27 hours), 1st year Computer Engineering, School of Engineering, University of Florence, AY 2023-2024, 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019
+- Course leader "Information Technologies Lab" (6 CFU - 54 hours), 1st year Computer Engineering, School of Engineering, University of Florence, AY 2014-2015, 2013-2014, 2012-2013, 2011-2012, 2010-2011, 2009-2010, 2008-2009
+- Course leader "Introduction to Generative Adversarial Networks", PhD course "Smart Computing" and "Information Engineering" (4 CFU - 16 hours), School of Engineering, University of Florence, AY 2019-2020
+- Course leader "GPU Programming basics", PhD course "Smart Computing" and "Information Engineering" (4 CFU - 16 hours), School of Engineering, University of Florence, AY 2017-2018, 2016-2017
+- Course leader "Computer Vision and Deep Learning in Practice", PhD course "Smart Computing" and "Information Engineering" (3 CFU - 12 hours), School of Engineering, University of Florence, AY 2021-2022, 2020-2021
+- Course leader "Introduction to Deep Learning with Keras", PhD course "Smart Computing" and "Information Engineering" (4 CFU - 16 hours), School of Engineering, University of Florence, AY 2019-2020, 2017-2018
+- Contract lecturer "Video editing" (24 hours) within the Master in Multimedia, University of Florence, AY 2013-2014, 2012-2013, 2011-2012, 2010-2011, 2009-2010, 2008-2009, 2007-2008, 2006-2007, 2005-2006, 2004-2005, 2003-2004, 2002-2003, 2001-2002, 2000-2001, 1999-2000
+- Course leader "Foundations of Computer Science I" (6 CFU), 1st year Information Engineering, School of Engineering, University of Florence (Prato campus), AY 2007-2008
+- Contract lecturer "Foundations of Computer Science" (3 CFU - 24 hours), 1st year Industrial Design, School of Architecture, University of Florence, AY 2002-2003
+- Contract lecturer "Information processing systems" (1 CFU), 3rd year Physiotherapy, School of Medicine, University of Florence, AY 2009-2010, 2008-2009, 2007-2008, 2006-2007
+- Course leader "Informatics" (1 CFU - 8 hours), 1st year School of Specialization in General Surgery, School of Medicine, University of Florence, AY 2013-2014, 2012-2013, 2011-2012, 2010-2011
+- Contract lecturer "Cisco CCNA certification preparation" within the Master in Multimedia, University of Florence, AY 2003-2004, 2002-2003
+- Contract lecturer "Markup Languages" within the Master in Multimedia, University of Florence, AY 2003-2004, 2002-2003, 2001-2002
+- Contract lecturer "Handheld devices programming" within the Master in Multimedia, University of Florence, AY 2004-2005, 2003-2004, 2002-2003, 2001-2002
+- Contract lecturer "Unix basics" within the Master in Multimedia, University of Florence, AY 1999-2000
+- Teaching support "Multimedia Databases" (Prof. A. Del Bimbo), 4th year Electronic, Telecommunications and Computer Engineering, School of Engineering, University of Florence, AY 2014-2015, 2013-2014, 2012-2013, 2011-2012, 2010-2011, 2009-2010, 2008-2009, 2007-2008, 2006-2007, 2005-2006, 2004-2005, 2003-2004
+- Teaching support "Multimedia Design and Production" (Prof. A. Del Bimbo), 3rd year Computer Engineering, School of Engineering, University of Florence, AY 2014-2015, 2011-2012, 2010-2011, 2009-2010, 2008-2009, 2007-2008, 2006-2007, 2005-2006, 2004-2005, 2003-2004, 2002-2003
+- Teaching support "Systems" (Ing. S. Berretti), 5th year (old curriculum) Computer Engineering and Telecommunications Engineering, School of Engineering, University of Florence, AY 2004-2005, 2002-2003
+- Teaching support "Systems" (Ing. P. Pala), 4th year Electronic, Telecommunications and Computer Engineering, School of Engineering, University of Florence, AY 2001-2002
 
-### Altre attività didattiche
+### Other teaching activities {#other-teaching-activities}
 
-- Docente di corso su SOA (per conto del Centro Servizi Informatici dell'Università di Firenze), 2013
-- Docente di corso avanzato di programmazione Java (per conto del Centro Servizi Informatici dell'Università di Firenze), 2014, 2012.
-- Docente di corsi su HTML (per conto del Centro Servizi Informatici dell'Università di Firenze), 2010, 2009.
-- Docente di corsi di preparazione a ECDL (per conto del Centro Servizi Informatici dell'Università di Firenze), 2005, 2004.
-- Docente del corso "Linguaggi di Markup II" (corso IFTS "Esperto web"), Firenze 2004
-- Docente di corsi di strumenti di programmazione e programmazione Java (per conto della ditta B4 Srl di Firenze), 2004.
-- Docente del corso "Elaborazione di immagini e visione artificiale" (per conto della ditta Space s.r.l. di Prato e del Master in Multimedia dell'Università di Firenze), 2001.
+- Lecturer on SOA (for the ICT Services Center of the University of Florence), 2013
+- Lecturer for advanced Java programming (for the ICT Services Center of the University of Florence), 2014, 2012
+- Lecturer for HTML courses (for the ICT Services Center of the University of Florence), 2010, 2009
+- Lecturer for ECDL preparation courses (for the ICT Services Center of the University of Florence), 2005, 2004
+- Lecturer "Markup Languages II" (IFTS course "Expert web"), Florence 2004
+- Lecturer on programming tools and Java programming (for B4 Srl, Florence), 2004
+- Lecturer "Image processing and computer vision" (for Space s.r.l. of Prato and the Master in Multimedia, University of Florence), 2001
 
-### Supervisore tesi e dottorati
+### Thesis and PhD supervision {#thesis-supervision}
 
-- Supervisore di 116 tesi magistrali e triennali
-- (co)Supervisore di 14 dottorandi
+- Supervisor of 116 MSc and BSc theses
+- (Co-)supervisor of 14 PhD students
 
-### Attività scientifica e di servizio - elenco principali attività istituzionali, organizzative e di servizio
+### Scientific and service activities - main institutional, organizational, and service roles {#service-roles}
 
-- Dal 2/3/2020 a oggi: direttore del Centro per la Comunicazione e Integrazione dei Media - MICC dell'Università degli Studi di Firenze.
+- Since 2/3/2020: director of the Media Integration and Communication Center - MICC, University of Florence
 
-Il Centro per l'Integrazione e la Comunicazione dei Media (MICC) è stato istituito dal Ministero dell'Istruzione, dell'Università e della Ricerca presso l'Università di Firenze nel 2001 come Centro di Eccellenza nazionale nel settore dei nuovi media.
+The Media Integration and Communication Center (MICC) was established by the Ministry of Education, University and Research at the University of Florence in 2001 as a national center of excellence in the field of new media.
 
-Il MICC è un centro di ricerca e trasferimento dove vengono studiate soluzioni innovative per l'applicazione delle tecnologie multimediali e informatiche, tra cui la computer vision, l'acquisizione e la modellazione 3D, le tecniche di riconoscimento automatico, le soluzioni per l'interazione naturale uomo-macchina, le installazioni multimediali.
+MICC is a research and technology transfer center where innovative solutions are studied for the application of multimedia and IT technologies, including computer vision, 3D acquisition and modeling, automatic recognition techniques, natural human-machine interaction, and multimedia installations.
 
-- 2016 - 2020: Membro del comitato di gestione del Centro per la Comunicazione e l'Integrazione dei Media - Università degli Studi di Firenze
-- Dal 15/4/2015 a oggi: membro del collegio docenti del dottorato di Ingegneria dell'Informazione dell'Università degli Studi di Firenze e referente per l'indirizzo di Ingegneria Informatica.
-- Dal 15/8/2023 a oggi: Scientific Advisory Board member di NVIDIA AI Technology Center Italy (NVAITC)
-- Dal 6/3/2023 a oggi: referente per il Trasferimento Tecnologico del Dipartimento di Ingegneria dell'Informazione
-- Dal 15/11/2024: membro della Commissione Comunicazione e Public Engagement del Dipartimento di Ingegneria dell'Informazione
-- 2013 - 2015: Membro del comitato ordinatore del Master in Multimedia dell'Università di Firenze
+- 2016 - 2020: Member of the management committee of the Media Integration and Communication Center - University of Florence
+- Since 15/4/2015: member of the PhD program in Information Engineering, University of Florence and coordinator for the Computer Engineering track
+- Since 15/8/2023: Scientific Advisory Board member, NVIDIA AI Technology Center Italy (NVAITC)
+- Since 6/3/2023: Technology Transfer representative for the Department of Information Engineering
+- Since 15/11/2024: member of the Communication and Public Engagement Commission, Department of Information Engineering
+- 2013 - 2015: Member of the organizing committee of the Master in Multimedia, University of Florence
 
-### Attività scientifica e di servizio - elenco completo per anno
+### Scientific and service activities - complete list by year {#service-by-year}
 
-Comitati editoriali, organizzazione di conferenze internazionali, comitati di indirizzo, etc.
+Comitati editorials, organizzazione di conferenze internazionali, comitati di indirizzo, etc.
 
 2026
 
@@ -487,60 +498,61 @@ Grant
 - Ottenimento del grant "Y! Star" di Yahoo! Per la donazione di server a ricercatori accademici. Il grant ottenuto è un cluster composto da 30 server DELL R410 e 68 server HP ProLiant DL160 G6, correntemente installato presso il MICC, 2016.
 - Ottenimento di donazione di GPU NVIDIA nel programma NVIDIA GPU GRANT (2015, 2018)
 
-## Attività Professionale
 
-- Revisore di articoli scientifici per la VQR per MIUR, 2021
-- Revisore di progetti scientifici e di trasferimento tecnologico per Sardegna Ricerche, 2013-2024
-- Revisore di progetti scientifici e di trasferimento tecnologico per FinPiemonte, 2020
-- Revisore di progetti scientifici e di trasferimento tecnologico per la Regione Campania, 2018, 2023-2024
-- Revisore di progetti scientifici e di trasferimento tecnologico per Puglia Sviluppo, 2016, 2024
-- Revisore di progetti scientifici e di trasferimento tecnologico per MIUR, 2015-2016
-- Valutatore per European Commission Directorate-General Information Society and Media - IST-2006-2.6.3 Advanced search technologies for digital audio-visual content - call 6, 2006
-- Estensore del progetto di ricerca precompetitiva su tematiche di watermarking digitale per accedere ai finanziamenti previsti dal Docup 2 della regione Toscana (per conto della ditta Fabricalab di Firenze), 2004
+## Professional activity {#professional-activity}
 
-## Attività ed Interessi di Ricerca
+- Reviewer of scientific articles for VQR for MIUR, 2021
+- Reviewer of scientific and technology transfer projects for Sardegna Ricerche, 2013-2024
+- Reviewer of scientific and technology transfer projects for FinPiemonte, 2020
+- Reviewer of scientific and technology transfer projects for Regione Campania, 2018, 2023-2024
+- Reviewer of scientific and technology transfer projects for Puglia Sviluppo, 2016, 2024
+- Reviewer of scientific and technology transfer projects for MIUR, 2015-2016
+- Evaluator for European Commission Directorate-General Information Society and Media - IST-2006-2.6.3 Advanced search technologies for digital audio-visual content - call 6, 2006
+- Author of a pre-competitive research proposal on digital watermarking to access Docup 2 funding from Regione Toscana (for Fabricalab, Florence), 2004
 
-Marco Bertini si occupa di pattern recognition, multimedia, AI e visione artificiale con applicazioni a librerie digitali e beni culturali, videosorveglianza, guida autonoma, codifica e miglioramento della qualità video, image/video retrieval e valutazione della qualità percettiva. Negli ultimi anni l'attività si è intensificata sull'impiego di GenAI e di modelli visione-linguaggio per: _(i)_ miglioramento/valutazione della qualità visuale in immagini e video (restauro, super-risoluzione, rimozione artefatti, qualità percettiva); _(ii)_ image retrieval "composed/conditioned" guidato da testo e immagini; _(iii)_ adattamento di dominio e sensing in scenari non visibili (termico, telerilevamento); _(iv)_ interazione uomo-AI e valorizzazione del patrimonio culturale; _(v)_ analisi multi-modale in contesti sociali e media. Questa evoluzione si innesta sulle precedenti linee di ricerca - annotazione semantica, ontologie multimediali, analisi di eventi/azioni e ricerca per contenuti - ampliandole con tecniche generative e rappresentazioni contrastive multi-modali.
+## Research activities and interests {#research-activities}
 
-_Qualità percettiva e restauro._ Sono stati sviluppati metodi GenAI per rimuovere artefatti di compressione, migliorare la qualità dei video in tempo reale e potenziare la fruizione in videoconferenza e nei flussi a bassa banda, con applicazioni anche al restauro di supporti analogici e a pipeline SR/denoise per video degradati. La linea comprende contributi su IEEE TMM e demo premiate ad ACM MM, nonché lavori su super-risoluzione e restauro di nastri analogici; da questa attività di ricerca è nato lo spin-off Small Pixels. Sul versante valutazione, sono proposte metriche no-reference basate su linguaggio e modelli per l'apprendimento di manifold di distorsione.
+Marco Bertini works on pattern recognition, multimedia, AI and computer vision with applications to digital libraries and cultural heritage, video surveillance, autonomous driving, video coding and quality enhancement, image/video retrieval, and perceptual quality assessment. In recent years, activity has intensified on the use of GenAI and vision-language models for: (i) visual quality enhancement/assessment in images and videos (restoration, super-resolution, artifact removal, perceptual quality); (ii) composed/conditioned image retrieval guided by text and images; (iii) domain adaptation and sensing in non-visible scenarios (thermal, remote sensing); (iv) human-AI interaction and cultural heritage; (v) multimodal analysis in social and media contexts. This evolution builds on previous research lines - semantic annotation, multimedia ontologies, event/action analysis and content-based retrieval - extending them with generative techniques and multimodal contrastive representations.
 
-_Visione-linguaggio e retrieval composto_. Una seconda direttrice riguarda il composed/conditioned image retrieval (CIR): dal perfezionamento di modelli basati su CLIP e learning contrastivo (con demo premiato a CVPR) fino al "zero-shot" con textual inversion e prompt learning e relative estensioni (iSEARLE su T-PAMI; ICCV). Questi risultati hanno migliorato robustezza e controllabilità delle query testo+immagine e aperto a casi d'uso in moda e multimedia. In questo ambito è stato sviluppato il benchmark CIRCO, che è diventato standard di riferimento in ambito CIR.
+_Perceptual quality and restoration._ GenAI methods have been developed to remove compression artifacts, enhance video quality in real time, and improve usability in videoconferencing and low-bandwidth streams, with applications to analog media restoration and SR/denoise pipelines for degraded video. The line includes contributions in IEEE TMM and award-winning demos at ACM MM, as well as work on super-resolution and analog tape restoration; this research led to the Small Pixels spin-off. On the assessment side, no-reference metrics based on language and manifold learning of distortions are proposed.
 
-_Adattamento di dominio e sensing._ È stato affrontato l'adattamento di dominio layer-wise per il rilevamento di pedoni in immagini termiche e l'aumento di dati sintetici termici, nonché il rilevamento di mine superficiali in ottico in tempo reale e la creazione di dataset sintetici con imaging olografico a microonde per la detection di mine sepolte. Queste ricerche mirano a portare modelli affidabili in scenari safety-critical per sminamento umanitario e applicazioni sicurezza in contesti in cui lo spettro visibile non è utilizzabile.  La collaborazione con RFI per lo sviluppo del sistema di visione per l'analisi della sicurezza delle linee ferroviarie ad alta velocità rientra in questo ambito di ricerca.
+_Vision-language and composed retrieval._ A second line concerns composed/conditioned image retrieval (CIR): from refinement of CLIP-based and contrastive learning models (with a CVPR award-winning demo) to zero-shot approaches with textual inversion and prompt learning and related extensions (iSEARLE on T-PAMI; ICCV). These results improved robustness and controllability of text+image queries and opened use cases in fashion and multimedia. In this context, the CIRCO benchmark was developed and became a standard in the CIR field.
 
-_Patrimonio culturale, HCI e media._ L'attività ha riguardato lo sviluppo di sistemi interattivi e multimodali per la valorizzazione di musei/mostre (gamification delle espressioni corporee/facciali; chatbot MLLM context-aware), studi sulla fruizione museale e strumenti per migliorare qualità e accessibilità dei contenuti culturali. Rientrano in questa linea anche attività su classificazione di opere con approcci CLIP-based e storytelling generativo per il turismo culturale.
+_Domain adaptation and sensing._ Layer-wise domain adaptation was addressed for pedestrian detection in thermal images and synthetic thermal data augmentation, as well as real-time surface landmine detection in optical imagery and the creation of synthetic datasets with microwave holographic imaging for buried landmine detection. These studies aim to bring reliable models to safety-critical scenarios for humanitarian demining and security applications where the visible spectrum is not usable. Collaboration with RFI on vision systems for high-speed rail safety analysis falls within this research area.
 
-_Analisi multi-modale di contesti sociali e nuovi dataset_. Recentemente sono stati esplorati metodi per il riconoscimento di relazioni tra persone, classificazione di _meme_ d'odio multi-modale, pipeline e benchmark per la comprensione di fumetti, nonché applicazioni generative e di editing in fashion e upsampling di point cloud 4D. Questi lavori estendono il raggio d'azione dal classico video understanding a domini narrativi, sociali e creativi.
+_Cultural heritage, HCI and media._ This activity includes the development of interactive and multimodal systems for museums/exhibitions (gamification of body/facial expressions; context-aware MLLM chatbot), studies on museum experiences, and tools to improve quality and accessibility of cultural content. This line also includes work on artwork classification with CLIP-based approaches and generative storytelling for cultural tourism.
 
-Le precedenti attività di ricerca hanno riguardato l'annotazione automatica dei contenuti di diverse tipologie di video e la transcodifica, in termini di creazione di sommari e compressione basata sul contenuto del video. Le principali tipologie di video analizzati sono state quelle dei notiziari, dei video sportivi e video sorveglianza. Per i notiziari sono stati sviluppati metodi per l'annotazione basata sui diversi media contenuti nei video, come trascrizioni audio, testo in sovrimpressione e di scena, elementi visuali di livello alto come il riconoscimento di volti, scene ed oggetti ed elementi visuali di livello medio-basso. Per quanto riguarda i video sportivi, è stato affrontato il problema della creazione di algoritmi per il riconoscimento di eventi di interesse che fossero adattabili ed utilizzabili in contesti molto diversi tra loro, ed affrontando anche il problema dell'annotazione in tempo reale. È stato studiato anche il problema della definizione di segnature univoche per il riconoscimento rapido di duplicati di sequenze video, con lo scopo della creazione di strumenti per la protezione della proprietà intellettuale e dell'analisi della struttura dei video, oltre che il problema del riconoscimento di marchi e loghi.
+_Multimodal analysis of social contexts and new datasets._ Recent work explored methods for relationship recognition, multimodal hate meme classification, pipelines and benchmarks for comics understanding, as well as generative applications and editing in fashion and 4D point cloud upsampling. These works extend the scope from classic video understanding to narrative, social, and creative domains.
 
-A seguire è stato affrontato anche il problema della transcodifica basata sul contenuto dei video, che ha ricadute sul tema generale dell'Universal Multimedia Access, in quanto rende possibile adattare il contenuto multimediale ad apparecchi e reti di capacità più limitate, mantenendo qualità di servizio accettabili per la codifica di eventi importanti e consentendo la perdita di qualità nei momenti di minore interesse per gli utenti.
+Earlier research focused on automatic annotation of different types of video content and transcoding, including video summary creation and content-based compression. The main video types analyzed were news, sports, and surveillance. For news, methods were developed for annotation based on multiple media streams, including audio transcripts, on-screen text, high-level visual elements such as face/scene/object recognition, and mid/low-level visual features. For sports videos, algorithms were developed for event recognition adaptable to different contexts, including real-time annotation. Work also addressed defining unique signatures for fast duplicate detection to support IP protection and video structure analysis, as well as trademark and logo recognition.
 
-La ricerca sull'annotazione automatica dei video ha quindi riguardato l'unione di strumenti nati nell'ambito del knowledge management e del semantic web quali i linguaggi per la descrizione di ontologie, come RDF e OWL, con dati multimediali. Sono state sviluppate quindi ontologie multimediali dinamiche, con relativi algoritmi e strumenti per l'annotazione automatica e assistita di video. A questo è seguito lo studio di descrittori visuali e metodologie di modellazione e apprendimento automatico per trattare la dimensione temporale di un evento/azione rappresentato in un video. Allo scopo sono stati studiati quindi sia descrittori di punti di interesse spazio-temporale, che hanno raggiunto performance di stato dell'arte nel riconoscimento di azioni umane, sia l'uso di kernel basati su edit distance, da applicare su punti di interesse spaziali, per il riconoscimento di eventi generici.
+Later, content-based video transcoding was addressed, with implications for Universal Multimedia Access, enabling multimedia adaptation to devices and networks with limited capacity while maintaining acceptable QoS for important events and allowing quality loss in less interesting segments.
 
-Il problema della ricerca basata su contenuti ha riguardato anche il retrieval di oggetti 3D e lo sviluppo di sistemi interattivi multi-utente per la ricerca di video.
+Research on automatic video annotation combined knowledge management and semantic web tools such as RDF and OWL with multimedia data. Dynamic multimedia ontologies were developed, along with algorithms and tools for automatic and assisted video annotation. This led to studies of visual descriptors and modeling/learning methods for the temporal dimension of events/actions in video. Both spatio-temporal interest point descriptors (state of the art in human action recognition) and edit-distance kernels applied to spatial interest points for generic event recognition were investigated.
 
-Quindi l'attività di ricerca ha riguardato l'analisi dei social media sia per quanto riguarda l'annotazione automatica di immagini e video, che il collaborative filtering e la recommendation. È stata anche affrontata la problematica della ricerca per similarità visuale, sia sfruttando fusioni di descrittori basati su composizione di embedding che meccanismi di hash approssimato.
+Content-based retrieval research also covered 3D object retrieval and interactive multi-user video search systems.
 
-### Elenco completo delle pubblicazioni
+Finally, research activity included social media analysis for automatic annotation of images and videos, collaborative filtering, and recommendation. Work also addressed visual similarity search, using descriptor fusion based on embedding composition and approximate hashing mechanisms.
 
-articoli su riviste . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38
+### Complete list of publications {#publications-list}
 
-editoriali. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+journal articles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .38
 
-libri. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+editorials. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
 
-capitoli di libri . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+books. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
 
-comunicazioni a conferenze internazionali . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+capitoli di books . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
 
-comunicazioni a conferenze nazionali . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
+international conference papers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
 
-articoli di divulgazione. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+national conference papers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .8
 
-dissertazioni . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+outreach articles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .1
 
-**Articoli su riviste**
+dissertations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2
+
+**journal articles**
 
 - A. Baldrati, D. Morelli, M. Cornia, M. Bertini, and R. Cucchiara. Multimodal-conditioned latent diffusion models for fashion image editing. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2026.
 - L. Agnolucci, A. Baldrati, A. Del Bimbo, and M. Bertini. iSEARLE: Improving textual inversion for zero-shot composed image retrieval. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2025.
@@ -581,7 +593,7 @@ dissertazioni . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - M. Bertini, A. Del Bimbo, and P. Pala, "Indexing for reuse of tv news shots," Pattern Recognition, vol. 35, pp. 581-591, Mar 2002.
 - M. Bertini, A. Del Bimbo, and P. Pala, "Content-based indexing and retrieval of TV news," Pattern Recognition Letters, vol. 22, pp. 503-516, Apr 2001.
 
-**Editoriali**
+**editorials**
 
 - G. Ciocca, R. Schettini, S. Santini, and M. Bertini. Special issue on content-based image retrieval. Multimedia Tools and Applications, 83(11):34109-34110, 2024.
 - K. S. Candan, M. Bertini, X.-Y. Wei, and L. Xie. Editorial for the ICMR 2019 special issue. International Journal of Multimedia Information Retrieval (IJMR), 2020.
@@ -589,11 +601,11 @@ dissertazioni . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - S. Rho, M. Bertini, G. de Silva, and S. Kopf, "Multimedia and semantic technologies for future computing environments," Multimedia Tools and Applications, vol. 61, pp. 1-6, 2012. 10.1007/s11042-011-0777-2.
 - M. Bertini, V. Devedzic, D. Gasevic, and C. Torniai, "Editorial," Interactive Learning Environments, vol. 19, no. 1, pp. 1-4, 2011.
 
-**Libri**
+**books**
 
 \[LI1\] M. Bertini. Programmazione Object-Oriented in C++. Design Pattern e introduzione alle buone pratiche di programmazione. Società Editrice Esculapio, 2019.
 
-**Capitoli di libri**
+**Capitoli di books**
 
 - L. Galteri, L. Seidenari, M. Bertini, T. Uricchio, and A. Del Bimbo. Multi-faceted Deep Learning: Models and Data, chapter Improving Video Quality with Generative Adversarial Networks. Springer, 2021.
 - L. Seidenari, C. Baecchi, T. Uricchio, A. Ferracani, M. Bertini, and A. Del Bimbo. Multi-Modal Behavioral Analysis in the Wild: Advances and Challenges, chapter Wearable Systems for Improving Tourist Experience. Elsevier, 2018.
@@ -602,7 +614,7 @@ dissertazioni . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
 - M. Bertini, A. Del Bimbo, "Video Automatic Annotation", pp. 861-870. In B. Furht, ed., Encyclopedia of Multimedia, Springer Book Series, 2006.
 - J. Assfalg, M. Bertini, C. Colombo, A. Del Bimbo, "Integrating Domain Knowledge and Visual Evidence to Support Highlight Detection in Sports Videos", pp. 100-126. In B. Furht and O. Marques, ed., Handbook of Video Databases: Design and Applications, CRC Press, September 2003.
 
-**Comunicazioni a conferenze internazionali**
+**international conference papers**
 
 - A. Shigesawa, C. Fukui, M. Yagi, S. Takahashi, T. Yoshii, and M. Bertini. A note on the speed-
 
@@ -777,7 +789,7 @@ storytelling with AI-visual illustrations for the promotion of knowledge in cult
   148.M. Bertini, A. Del Bimbo, and P. Pala, "Content based annotation and retrieval of news videos," in Proc. of IEEE International Conference on Multimedia & Expo (ICME), vol. 1, (New York, NY, USA), pp. 483-486, July 2000.
   149.M. Bertini, A. Del Bimbo, and P. Pala, "Content-based indexing and retrieval of news video," in Proc. of International Symposium on Image/Video Communications (ISIVC), (Rabat, Morocco), April 2000.
 
-**Comunicazioni a conferenze nazionali**
+**national conference papers**
 
 - S. Ercoli, M. Bertini and A. Del Bimbo, "Hash Codes for Visual Descriptors Retrieval in Large Scale Archives", in Proc. of Italian Research Conference on Digital Library Systems (IRCDL), (Modena, Italy), January 2016
 - G. Becchi, M. Bertini, A. Del Bimbo, A. Ferracani, and D. Pezzatini, "A Distributed System for Multimedia Monitoring, Publishing and Retrieval," in Proc. of Italian Research Conference on Digital Library Systems (IRCDL), (Padova, Italy), January 2014.
@@ -788,11 +800,11 @@ storytelling with AI-visual illustrations for the promotion of knowledge in cult
 - M. Bertini, R. Cucchiara, A. Del Bimbo, and A. Prati, "Semantic adaptation of sports video with user-centred performance analysis," in Proc. of Convegno del Gruppo Italiano Ricercatori in Pattern Recognition (GIRPR), September 2004.
 - M. Bertini, A. Del Bimbo, and W. Nunziati, "Face detection and players identification in sports videos," in Proc. of Convegno del Gruppo Italiano Ricercatori in Pattern Recognition (GIRPR), September 2004.
 
-**Articoli di divulgazione**
+**outreach articles**
 
 - M. Bertini and A. Del Bimbo, "Intelligenza artificiale, sviluppi e opportunità", Bioarchitettura, (149):23-29, 2025.
 
-**Dissertazioni**
+**dissertations**
 
 - M. Bertini, "Annotazione automatica di notiziari video". Tesi di laurea, Università degli Studi di Firenze, 1999.
 - M. Bertini, "Video analysis and annotation: the case of sports videos". Tesi di dottorato di ricerca, Università degli Studi di Firenze, 2004.

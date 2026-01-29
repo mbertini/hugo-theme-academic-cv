@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Professore Associato, Universita degli Studi di Firenze"
+    tagline: "Associate Professor, University of Florence"
     # Site meta description for search engines and social sharing
-    description: "Sito accademico e curriculum di Marco Bertini, professore associato presso l'Universita degli Studi di Firenze."
+    description: "Academic profile and CV of Marco Bertini, Associate Professor at the University of Florence."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: ""
@@ -163,7 +163,7 @@ hugoblox:
       enable: true
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
       style: apa                        # apa | mla | chicago | ieee

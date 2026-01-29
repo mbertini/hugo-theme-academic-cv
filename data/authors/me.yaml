@@ -9,14 +9,14 @@ name:
 postnominals: []
 status:
   icon: ""
-role: Professore Associato (ING-INF/05)
+role: Associate Professor (ING-INF/05)
 bio: |
-  Professore Associato presso l'Universita degli Studi di Firenze.
-  Direttore del Centro per la Comunicazione e Integrazione dei Media (MICC).
-  Co-fondatore dello spin-off universitario "Small Pixels".
+  Associate Professor at the University of Florence.
+  Director of the Media Integration and Communication Center (MICC).
+  Co-founder of the university spin-off "Small Pixels".
 
 affiliations:
-  - name: Universita degli Studi di Firenze
+  - name: University of Florence
     url: https://www.unifi.it/
   - name: MICC - Media Integration and Communication Center
     url: https://www.micc.unifi.it/
@@ -27,7 +27,7 @@ links:
     label: E-mail
   - icon: link
     url: http://www.micc.unifi.it/bertini
-    label: Sito personale
+    label: Personal site
 
 interests:
   - Computer Vision
@@ -36,51 +36,51 @@ interests:
   - Machine Learning
 
 education:
-  - degree: Dottorato di Ricerca in Ingegneria Informatica e delle Comunicazioni
-    institution: Universita degli Studi di Firenze
+  - degree: PhD in Computer Engineering and Telecommunications
+    institution: University of Florence
     start: 2000-01-01
     end: 2004-09-21
     summary: |
-      Tesi: "Video analysis and annotation: the case of sports videos".
-  - degree: Laurea in Ingegneria Elettronica
-    institution: Universita degli Studi di Firenze
+      Dissertation: "Video analysis and annotation: the case of sports videos".
+  - degree: MS in Electronic Engineering
+    institution: University of Florence
     start: 1993-01-01
     end: 1999-01-11
     summary: |
-      Tesi: "Annotazione automatica di notiziari video".
+      Thesis: "Automatic annotation of news videos".
 
 experience:
-  - role: Direttore, MICC
-    org: Universita degli Studi di Firenze
+  - role: Director, MICC
+    org: University of Florence
     start: 2020-03-02
     summary: |
-      Direttore del Centro per la Comunicazione e Integrazione dei Media.
-  - role: Co-fondatore, Small Pixels
-    org: Spin-off universitario
+      Director of the Media Integration and Communication Center.
+  - role: Co-founder, Small Pixels
+    org: University spin-off
     start: 2020-09-22
     summary: |
-      Co-fondatore dello spin-off universitario "Small Pixels".
-  - role: Membro CdA, Small Pixels
-    org: Spin-off universitario
+      Co-founded the university spin-off "Small Pixels".
+  - role: Board Member, Small Pixels
+    org: University spin-off
     start: 2023-11-01
     end: 2025-11-30
     summary: |
-      Membro del Consiglio di Amministrazione.
-  - role: Professore Associato
-    org: Universita degli Studi di Firenze
+      Member of the Board of Directors.
+  - role: Associate Professor
+    org: University of Florence
     start: 2015-10-01
     summary: |
-      Settore scientifico-disciplinare ING-INF/05.
-  - role: Ricercatore TI confermato
-    org: Universita degli Studi di Firenze
+      Scientific sector ING-INF/05.
+  - role: Tenured Researcher
+    org: University of Florence
     start: 2010-12-01
     end: 2015-09-30
-  - role: Ricercatore TI non confermato
-    org: Universita degli Studi di Firenze
+  - role: Researcher (non-tenured)
+    org: University of Florence
     start: 2007-12-01
     end: 2010-11-30
-  - role: Assegno di Ricerca
-    org: Universita degli Studi di Firenze
+  - role: Research Fellowship
+    org: University of Florence
     start: 2000-01-01
     end: 2007-12-31
 
