@@ -45,11 +45,11 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: 'Research'
+      title: 'Research interests'
       subtitle: ''
       text: |-
         Research activity in computer vision and multimedia systems, with a focus on retrieval,
-        image and video analysis, and human-machine interaction.
+        image and video analysis, coding and quality assessment, and human-machine interaction.
     design:
       columns: '1'
   - block: collection
