@@ -4,6 +4,8 @@ summary: "Curriculum dell'attivita scientifica e didattica"
 toc: true
 ---
 
+![Universita degli Studi di Firenze](/images/logo/Logo_Dinfo_web.png)
+
 
 Professore Associato per il settore scientifico-disciplinare ING-INF/05
 

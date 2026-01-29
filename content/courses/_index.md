@@ -7,6 +7,15 @@ type: landing
 sections:
   - block: markdown
     content:
+      title: ''
+      text: |-
+        ![Universita degli Studi di Firenze](/images/logo/Logo_Dinfo_web.png)
+        ![MICC logo](/images/logo/LOGOUNIFI_DINFO_MICC_inverted.png)
+        ![Small Pixels logo](/images/logo/smallpixels_logo_white.svg)
+    design:
+      columns: '1'
+  - block: markdown
+    content:
       title: Attivita didattica
       text: |-
         - Titolare del corso "Parallel Programming for Machine Learning" (6 CFU - 48 ore), I anno corso di Laurea Magistrale Intelligenza Artificiale, Scuola di Ingegneria, Universita di Firenze, a.a. 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022

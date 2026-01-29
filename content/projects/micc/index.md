@@ -10,6 +10,8 @@ tags:
   - Ricerca
 ---
 
+![MICC logo](/images/logo/LOGOUNIFI_DINFO_MICC_inverted.png)
+
 Direttore del MICC dal 2/3/2020.
 
 <!--more-->
