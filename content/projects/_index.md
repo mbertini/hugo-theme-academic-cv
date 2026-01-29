@@ -5,12 +5,12 @@ layout: single
 toc: true
 ---
 
-## Spin-offs and centers
+### Spin-offs and centers
 
 - [Small Pixels](/projects/small-pixels/)
 - [MICC - Media Integration and Communication Center](/projects/micc/)
 
-## European projects
+### European projects
 
 - Scientific coordinator for the University of Florence unit in EU H2020 CSA ReInHerit, Proposal 101004545, TRANSFORMATIONS-19-2020 (unit budget: 279,487 EUR; 1 Mar 2021-29 Feb 2024)
 - Scientific coordinator for the University of Florence unit in EU H2020 RIA AI4Media, Proposal 951911 (unit budget: 418,750 EUR; 1 Sep 2020-31 Aug 2024)
@@ -25,17 +25,17 @@ toc: true
 - Participant in EU CARDS: "Support to the reform of Serbian Media Legislation towards EU standards and strengthening of legal and technical skills of media professionals" (EU CARDS Regional Democratic Stabilisation Programme, 2004)
 - Participant in EU TEMPUS: "Reorganization of University Libraries of Albania" (EU TEMPUS JEP N. 14174 ALBANet, 1999-2002)
 
-## International projects
+### International projects
 
 - Participation in the international research project "GLAIVE: Graphics-Based Learning Approach Integrated with Vision Elements", supported by ODNI/IARPA, contract 2014-14071600011, with the University of Southern California (USC), 01/03/2014-2020
 
-## National projects
+### National projects
 
 - Scientific coordinator for the DINFO unit of "CHANGES" PNRR PE5 Spoke 4 (unit budget: 106,100 EUR)
 - Participant in the MIUR Cluster project "The Social Museum and Smart Tourism"
 - Use case leader 6 (Video surveillance) and 7 (Cultural heritage applications) in the "Progetto 5G" with Open Fiber and Wind 3 for 5G application trials in Prato (allocated amount: 40,250 EUR; 01/01/2017-01/09/2020)
 
-## Regional projects
+### Regional projects
 
 - Scientific coordinator "Generative Human Api for Prompt Integration (GENHAPI)", co-funded by Regione Toscana, FESR 2021-2027 OP1 OS1 Action 1.1.4 (8/12/2024-8/3/2026; DINFO unit budget: 152,825 EUR)
 - Scientific coordinator "Smart Food Supply Chain", co-funded by Regione Toscana, FESR 2021-2027 OP1 OS1 Action 1.1.4 (8/12/2024-8/3/2026; DINFO unit budget: 162,120 EUR)
@@ -46,7 +46,7 @@ toc: true
 - Participant "RIS - Sistema ad Interazione Naturale Collaborativa", POR CReO FESR (01/05/2012-30/06/2013)
 - Participant "eSERVANT", POR FESR 2014-2020 (DD 3389/30-07-2014, DD 10750/30-09-2016), from 01/04/2016 to present
 
-## University-industry and contract research
+### University-industry and contract research
 
 - Scientific coordinator "Unmanned Railway Vehicle (URV)" (MICC - RFI, 2018-2024, coordinator) (DINFO unit budget: 506,937 EUR)
 - Scientific coordinator "5VReal - visual quality" (Small Pixels - MICC, 2024, coordinator) (budget: 30,000 EUR)
@@ -59,7 +59,7 @@ toc: true
 - Participant "Activation of a videoconferencing system for citizens via internet" (Department of Systems and Informatics - Municipality of Florence)
 - Participant "Research and creation of two interactive CDs on biological components of water matrices" (Department of Systems and Informatics - Municipality of Florence)
 
-## Competitive calls
+### Competitive calls
 
 - Winner "Call for 28 Research Fellowships for advanced training projects", Regione Toscana, 01/07/2022-30/06/2024 (funding: 60,000 EUR)
 - Winner "Large equipment call" (funding: 50,000 EUR), Fondazione Cassa di Risparmio di Firenze, 2020

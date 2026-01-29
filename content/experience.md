@@ -5,15 +5,15 @@ layout: single
 toc: true
 ---
 
-## Experience
+### Experience
 
 {{< resume_experience id="experience" username="me" date_format="January 2006" is_education_first="false" >}}
 
-## Awards and honors
+### Awards and honors
 
 {{< resume_awards id="awards-and-honors" title="Awards and honors" username="me" >}}
 
-## Invited talks and keynote speakers
+### Invited talks and keynote speakers
 
 - "Measuring and improving perceptual visual quality of images and videos: from research to product deployment", HarmonyOS Technology Innovation Summit, Florence, Italy, 1 September 2025
 - Invited tutorial speaker, "Image Tag Assignment, Refinement and Retrieval", "ACM Multimedia (ACM MM)", 26-30 Oct., Brisbane, Australia, October 2015

@@ -9,7 +9,9 @@ name:
 postnominals: []
 status:
   icon: ""
-role: Associate Professor (ING-INF/05)
+role: |
+  Associate Professor.   
+  Co-founder of "Small Pixels".
 bio: |
   Associate Professor at the University of Florence.
   Director of the Media Integration and Communication Center (MICC).
@@ -20,19 +22,33 @@ affiliations:
     url: https://www.unifi.it/
   - name: MICC - Media Integration and Communication Center
     url: https://www.micc.unifi.it/
+  - name: Small Pixels
+    url: https://www.smallpixels.ai/
 
 links:
   - icon: at-symbol
     url: mailto:marco.bertini@unifi.it
     label: E-mail
   - icon: link
-    url: http://www.micc.unifi.it/bertini
-    label: Personal site
+    url: https://cercachi.unifi.it/p-doc2-0-0-A-3f2a3d32362a2a.html
+    label: UniFi site
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/marcobertini/
+    label: LinkedIn
+  - icon: academicons/google-scholar
+    url: https://scholar.google.it/citations?user=SBm9ZpYAAAAJ
+    label: Google Scholar
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-1364-218X
+    label: ORCID
 
 interests:
   - Computer Vision
+  - Artificial Intelligence
   - Multimedia
-  - Information Retrieval
+  - Video Coding
+  - Image and Video Quality Assessment
+  - Combined Image Retrieval
   - Machine Learning
 
 education:

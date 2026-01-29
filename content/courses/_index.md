@@ -5,7 +5,7 @@ layout: single
 toc: true
 ---
 
-## Teaching activity
+### Teaching activity
 
 - Course leader "Parallel Programming for Machine Learning" (6 CFU - 48 hours), 1st year MSc Artificial Intelligence, School of Engineering, University of Florence, AY 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022
 - Course leader "Programming" (6 CFU - 54 hours), 1st year Computer Engineering, School of Engineering, University of Florence, AY 2025-2026, 2024-2025, 2023-2024, 2022-2023, 2021-2022, 2020-2021, 2019-2020, 2018-2019, 2017-2018, 2016-2017, 2015-2016
@@ -31,7 +31,7 @@ toc: true
 - Teaching support "Systems" (Ing. S. Berretti), 5th year (old curriculum) Computer Engineering and Telecommunications Engineering, School of Engineering, University of Florence, AY 2004-2005, 2002-2003
 - Teaching support "Systems" (Ing. P. Pala), 4th year Electronic, Telecommunications and Computer Engineering, School of Engineering, University of Florence, AY 2001-2002
 
-## Other teaching activities
+### Other teaching activities
 
 - Lecturer on SOA (for the ICT Services Center of the University of Florence), 2013
 - Lecturer for advanced Java programming (for the ICT Services Center of the University of Florence), 2014, 2012
