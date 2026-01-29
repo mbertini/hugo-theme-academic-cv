@@ -6,19 +6,6 @@ toc: true
 
 <img src="/images/logo/Logo_Dinfo_web.png" alt="University of Florence logo" width="240" />
 
-**On this page**
-- [Personal data](#personal-data)
-- [Awards and honors](#awards-and-honors)
-- [Education and qualifications](#education-and-qualifications)
-- [Teaching activity](#teaching-activity)
-- [Other teaching activities](#other-teaching-activities)
-- [Thesis and PhD supervision](#thesis-supervision)
-- [Service roles](#service-roles)
-- [Service by year](#service-by-year)
-- [Professional activity](#professional-activity)
-- [Research activities and interests](#research-activities)
-- [Publications list](#publications-list)
-
 Associate Professor for scientific sector ING-INF/05
 
 at the University of Florence

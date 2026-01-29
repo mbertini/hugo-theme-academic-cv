@@ -26,6 +26,10 @@ cascade:
       path: /slides/**
       kind: page
     outputs: [HTML, present]
+  - _target:
+      path: /**
+    reading_time: false
+    hide_date: true
 
 ############################
 ## ADVANCED
