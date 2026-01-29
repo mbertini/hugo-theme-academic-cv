@@ -85,18 +85,43 @@ experience:
     end: 2007-12-31
 
 awards:
+  - title: Certificate of Appreciation - ECCV 2012
+    awarder: European Conference on Computer Vision (ECCV)
+    date: "2012-10-01"
+    icon: hero/document-text
+    certificate_url: /uploads/certificates/eccv-2012.pdf
+  - title: Certificate of Appreciation - ACM Multimedia 2010
+    awarder: ACM
+    date: "2010-10-01"
+    icon: hero/document-text
+    certificate_url: /uploads/certificates/acm-mm-2010.pdf
+  - title: Certificate of Appreciation - ICMCS'99
+    awarder: IEEE Computer Society
+    date: "1999-10-01"
+    icon: hero/document-text
+    certificate_url: /uploads/certificates/icmcs-1999.pdf
   - title: Best Paper Award - "Language Based Image Quality Assessment"
     awarder: ACM Multimedia Asia
     date: "2021-12-01"
+    icon: hero/trophy
+    certificate_url: /uploads/certificates/acm-mm-asia-2021.pdf
   - title: Best Demo Honorable Mention - "Engaging museum visitors with gamification of body and facial expressions"
     awarder: ACM Multimedia
     date: "2022-10-01"
+    icon: hero/trophy
+    certificate_url: /uploads/certificates/acm-mm-2022-demo.pdf
   - title: Best Demo Honorable Mention - "Effective conditioned and composed image retrieval combining CLIP-based features"
     awarder: CVPR
     date: "2022-06-01"
+    icon: hero/trophy
+    certificate_url: /uploads/certificates/cvpr-2022-demo.pdf
   - title: Best Poster Paper Award - "Image Retrieval Using Multi-Scale CNN Feature Pooling"
     awarder: ACM ICMR
     date: "2020-06-01"
+    icon: hero/trophy
+    certificate_url: /uploads/certificates/icmr-2020-poster.pdf
   - title: Best Demo Award - "Fast Video Quality Enhancement using GANs"
     awarder: ACM Multimedia
     date: "2019-10-01"
+    icon: hero/trophy
+    certificate_url: /uploads/certificates/acm-mm-2019-demo.pdf
