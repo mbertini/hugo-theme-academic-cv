@@ -2,115 +2,101 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Marco Bertini
+  given: Marco
+  family: Bertini
+  pronouns: ""
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: ""
+role: Professore Associato (ING-INF/05)
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Professore Associato presso l'Universita degli Studi di Firenze.
+  Direttore del Centro per la Comunicazione e Integrazione dei Media (MICC).
+  Co-fondatore dello spin-off universitario "Small Pixels".
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Universita degli Studi di Firenze
+    url: https://www.unifi.it/
+  - name: MICC - Media Integration and Communication Center
+    url: https://www.micc.unifi.it/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: mailto:marco.bertini@unifi.it
+    label: E-mail
+  - icon: link
+    url: http://www.micc.unifi.it/bertini
+    label: Sito personale
 
 interests:
-  - Large Language Models
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Multimedia
+  - Information Retrieval
+  - Machine Learning
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Dottorato di Ricerca in Ingegneria Informatica e delle Comunicazioni
+    institution: Universita degli Studi di Firenze
+    start: 2000-01-01
+    end: 2004-09-21
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Tesi: "Video analysis and annotation: the case of sports videos".
+  - degree: Laurea in Ingegneria Elettronica
+    institution: Universita degli Studi di Firenze
+    start: 1993-01-01
+    end: 1999-01-11
+    summary: |
+      Tesi: "Annotazione automatica di notiziari video".
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Direttore, MICC
+    org: Universita degli Studi di Firenze
+    start: 2020-03-02
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Direttore del Centro per la Comunicazione e Integrazione dei Media.
+  - role: Co-fondatore, Small Pixels
+    org: Spin-off universitario
+    start: 2020-09-22
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+      Co-fondatore dello spin-off universitario "Small Pixels".
+  - role: Membro CdA, Small Pixels
+    org: Spin-off universitario
+    start: 2023-11-01
+    end: 2025-11-30
+    summary: |
+      Membro del Consiglio di Amministrazione.
+  - role: Professore Associato
+    org: Universita degli Studi di Firenze
+    start: 2015-10-01
+    summary: |
+      Settore scientifico-disciplinare ING-INF/05.
+  - role: Ricercatore TI confermato
+    org: Universita degli Studi di Firenze
+    start: 2010-12-01
+    end: 2015-09-30
+  - role: Ricercatore TI non confermato
+    org: Universita degli Studi di Firenze
+    start: 2007-12-01
+    end: 2010-11-30
+  - role: Assegno di Ricerca
+    org: Universita degli Studi di Firenze
+    start: 2000-01-01
+    end: 2007-12-31
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Best Paper Award - "Language Based Image Quality Assessment"
+    awarder: ACM Multimedia Asia
+    date: "2021-12-01"
+  - title: Best Demo Honorable Mention - "Engaging museum visitors with gamification of body and facial expressions"
+    awarder: ACM Multimedia
+    date: "2022-10-01"
+  - title: Best Demo Honorable Mention - "Effective conditioned and composed image retrieval combining CLIP-based features"
+    awarder: CVPR
+    date: "2022-06-01"
+  - title: Best Poster Paper Award - "Image Retrieval Using Multi-Scale CNN Feature Pooling"
+    awarder: ACM ICMR
+    date: "2020-06-01"
+  - title: Best Demo Award - "Fast Video Quality Enhancement using GANs"
+    awarder: ACM Multimedia
+    date: "2019-10-01"

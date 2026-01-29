@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Progetti'
 date: 2024-05-19
 type: landing
 
@@ -11,11 +11,27 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Startup e spin-off
+      text: Progetti di trasferimento tecnologico e imprenditoriali.
       filters:
         folders:
           - projects
+        tag: 'Startup'
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 3
+      show_date: false
+      show_read_time: false
+      show_read_more: false
+  - block: collection
+    content:
+      title: Centri e ricerca
+      text: Attivita istituzionali e di ricerca.
+      filters:
+        folders:
+          - projects
+        tag: 'Centro di ricerca'
     design:
       view: article-grid
       fill_image: false
