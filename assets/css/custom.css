@@ -24,7 +24,7 @@ main section + section {
 
 /* Hard override base text size site-wide */
 html {
-    font-size: 95%;
+    font-size: 90%;
 }
 
 h1 {
@@ -48,13 +48,9 @@ body {
 }
 
 .prose h2 + section.hbb-section.blox-collection {
-    padding-top: 1rem;
-    margin-top: 0;
+    margin-top: -5rem;
 }
 
-.prose h2 {
-    margin-bottom: 0.5rem;
-}
 
 #section-resume-biography-3 .grid > .group {
     padding: 2rem;
