@@ -1,0 +1,51 @@
+{{- $username := .Get "username" | default "me" -}}
+{{- $show_maps := .Get "show_maps" | default "false" -}}
+{{- $show_maps = eq (lower $show_maps) "true" -}}
+{{- $author := index site.Data.authors $username -}}
+{{- $contact := $author.contact -}}
+{{- $addresses := $contact.addresses -}}
+
+{{- if $addresses -}}
+<div class="grid gap-6 md:grid-cols-2">
+  {{- range $addresses -}}
+    <div class="rounded-2xl border border-gray-200/60 bg-white/80 p-6 shadow-sm">
+      {{- with .label -}}
+        <h3 class="text-lg font-semibold text-gray-900">{{ . }}</h3>
+      {{- end -}}
+      {{- $lines := slice -}}
+      {{- with .organization -}}{{- $lines = $lines | append . -}}{{- end -}}
+      {{- with .building -}}{{- $lines = $lines | append (printf "Building %s" .) -}}{{- end -}}
+      {{- with .floor -}}{{- $lines = $lines | append (printf "Floor %s" .) -}}{{- end -}}
+      {{- with .room -}}{{- $lines = $lines | append (printf "Room %s" .) -}}{{- end -}}
+      {{- with .street -}}{{- $lines = $lines | append . -}}{{- end -}}
+      {{- $cityLine := slice -}}
+      {{- with .city -}}{{- $cityLine = $cityLine | append . -}}{{- end -}}
+      {{- with .region -}}{{- $cityLine = $cityLine | append . -}}{{- end -}}
+      {{- with .postal_code -}}{{- $cityLine = $cityLine | append . -}}{{- end -}}
+      {{- if gt (len $cityLine) 0 -}}
+        {{- $lines = $lines | append (delimit $cityLine ", ") -}}
+      {{- end -}}
+      {{- with .country -}}{{- $lines = $lines | append . -}}{{- end -}}
+      {{- if gt (len $lines) 0 -}}
+        <p class="mt-2 text-gray-600">{{ delimit $lines "<br>" | safeHTML }}</p>
+      {{- else -}}
+        <p class="mt-2 text-gray-500">Add address details in `data/authors/{{ $username }}.yaml`.</p>
+      {{- end -}}
+      {{- if and $show_maps (gt (len $lines) 0) -}}
+        {{- $query := delimit $lines ", " | urlquery -}}
+        <div class="mt-4 overflow-hidden rounded-xl border border-gray-200">
+          <iframe
+            title="{{ .label }} map"
+            class="h-56 w-full"
+            loading="lazy"
+            src="https://maps.google.com/maps?q={{ $query }}&t=&z=14&ie=UTF8&iwloc=&output=embed"
+            referrerpolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
+      {{- end -}}
+    </div>
+  {{- end -}}
+</div>
+{{- else -}}
+<p class="text-gray-500">Add address details in `data/authors/{{ $username }}.yaml`.</p>
+{{- end -}}

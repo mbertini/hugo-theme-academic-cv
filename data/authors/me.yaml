@@ -18,6 +18,32 @@ bio: |
   Director of the Media Integration and Communication Center (MICC).
   Co-founder of the university spin-off "Small Pixels".
 
+contact:
+  email: "marco.bertini@unifi.it"
+  phone: ""
+  office: ""
+  addresses:
+    - label: "MICC Address"
+      organization: "MICC - Media Integration and Communication Center"
+      building: "E1"
+      floor: "Basement"
+      room: "S57"
+      street: "Viale Morgagni, 65"
+      city: "Firenze"
+      region: ""
+      postal_code: "50134"
+      country: ""
+    - label: "DINFO Address"
+      organization: "Department of Information Engineering (DINFO), University of Florence"
+      building: ""
+      floor: "2"
+      room: "287"
+      street: "Via S. Marta, 3"
+      city: "Firenze"
+      region: ""
+      postal_code: "50139"
+      country: "Italy"
+
 affiliations:
   - name: University of Florence
     url: https://www.unifi.it/
@@ -55,14 +81,10 @@ interests:
 education:
   - degree: PhD in Computer Engineering and Telecommunications
     institution: University of Florence
-    start: 2000-01-01
-    end: 2004-09-21
     summary: |
       Dissertation: "Video analysis and annotation: the case of sports videos".
   - degree: MS in Electronic Engineering
     institution: University of Florence
-    start: 1993-01-01
-    end: 1999-01-11
     summary: |
       Thesis: "Automatic annotation of news videos".
 

@@ -2,25 +2,24 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 2022-10-24
+date: 
 type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '1rem'
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: '
-        Marco Bertini is Associate Professor in Computer Science at the University of Florence, Italy. He is working at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it) at the [University of Florence](https://www.unifi.it/), where he serves as Director of the center since 2020.  
+      text: |-
+        Marco Bertini is Associate Professor in Computer Science at the University of Florence, Italy. He is working at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it) at the [University of Florence](https://www.unifi.it/), where he serves as Director of the center since 2020.
 
-        MICC is a research and transfer center where innovative solutions for the application of computer vision, AI, multimedia and information technologies are studied, including computer vision, 3D acquisition and modeling, automatic recognition techniques, solutions for natural human-machine interaction, multimedia installations.  
+        MICC is a research and transfer center where innovative solutions for the application of computer vision, AI, multimedia and information technologies are studied, including computer vision, 3D acquisition and modeling, automatic recognition techniques, solutions for natural human-machine interaction, multimedia installations.
 
         He has been involved in 10 EU research projects as WP coordinator and researcher, among which IM3I, euTV, ORUSSI, UMETECH, and more recently AI4Media and ReInHerit. He is currently P.I. of 4 national and regional technology transfer projects. He is a co-founder of [Small Pixels](https://smallpixels.ai), an academic spin-off that has developed innovative GenAI solutions for video quality improvement and enhanced video compression.
-'
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Full CV
@@ -72,4 +71,15 @@ sections:
         publication_type: 'paper-conference'
     design:
       view: citation
+  - block: markdown
+    content:
+      title: 'Contact'
+      subtitle: ''
+      text: |-
+        {{< contact_addresses username="me" >}}
+      button:
+        text: Full contact info
+        url: /contact/
+    design:
+      columns: '2'
 ---

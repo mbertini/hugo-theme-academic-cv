@@ -24,12 +24,13 @@ Tel. 055 - 275 1395
 <marco.bertini@unifi.it>  
 <http://www.micc.unifi.it/bertini>
 
-## Current positions and main previous academic and institutional
+## Current positions and main previous academic and institutional roles
 
 - Nov 2023 to Nov 2025: Board member of the university spin-off "Small Pixels"
 - Since 22/09/2020: co-founder of the university spin-off "Small Pixels"
 - Since 2/3/2020: director of the Media Integration and Communication Center - MICC, University of Florence
 - Since 1/10/2015: Associate Professor
+
 - From 1/12/2010 to 30/9/2015: Tenured Researcher
 - From 1/12/2007 to 30/11/2010: Researcher (non-tenured)
 - 2000 - Research Fellowship holder from 2000 to 2007
