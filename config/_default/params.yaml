@@ -62,7 +62,7 @@ hugoblox:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
     font: "sans"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "md"
+    size: "sm"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -166,7 +166,7 @@ hugoblox:
       enable: false
     # Academic citations
     citations:
-      style: apa                        # apa | mla | chicago | ieee
+      style: ieee                        # apa | mla | chicago | ieee
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEARCH

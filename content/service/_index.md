@@ -1,6 +1,6 @@
 ---
 title: Service and Chairs
-date: 2024-01-01
+date:
 layout: single
 toc: true
 ---

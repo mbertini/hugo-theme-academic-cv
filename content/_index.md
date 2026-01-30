@@ -2,12 +2,12 @@
 # Leave the homepage title empty to use the site title
 title: ''
 summary: ''
-date: 
+date:
 type: landing
 
 design:
   # Default section spacing
-  spacing: '1rem'
+  spacing: '0.2rem'
 
 sections:
   - block: resume-biography-3
@@ -77,9 +77,6 @@ sections:
       subtitle: ''
       text: |-
         {{< contact_addresses username="me" >}}
-      button:
-        text: Full contact info
-        url: /contact/
     design:
-      columns: '2'
+      columns: '1'
 ---

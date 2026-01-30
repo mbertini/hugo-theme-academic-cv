@@ -81,10 +81,12 @@ interests:
 education:
   - degree: PhD in Computer Engineering and Telecommunications
     institution: University of Florence
+    end: 2004
     summary: |
       Dissertation: "Video analysis and annotation: the case of sports videos".
   - degree: MS in Electronic Engineering
     institution: University of Florence
+    end: 1999
     summary: |
       Thesis: "Automatic annotation of news videos".
 

@@ -1,6 +1,6 @@
 ---
 title: Projects
-date: 2024-05-19
+date:
 layout: single
 toc: true
 ---

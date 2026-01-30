@@ -1,12 +1,14 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: 'Work Experience'
+date: 
 layout: single
 toc: true
+design:
+  # Default section spacing
+  spacing: '0.2rem'
 ---
 
-### Experience
-
+### Professional experience
 {{< resume_experience id="experience" username="me" date_format="January 2006" is_education_first="false" >}}
 
 ### Awards and honors
