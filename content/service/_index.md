@@ -1,15 +1,13 @@
 ---
-title: Service and Chairs
+title: Service and community roles by year
 date:
 layout: single
 toc: true
 ---
+This page lists service and community roles by year, including
+editorial boards, conference organization, steering committees, etc.
 
-### Service and community roles by year
-
-Editorial boards, conference organization, steering committees, etc.
-
-#### 2026
+### 2026
 
 - Director of the Media Integration and Communication Center (MICC) of the University of Florence
 - NVIDIA AI Technology Center (NVAITC) Scientific Advisory Board member
@@ -19,7 +17,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Senior Area Chair member "ACM International Conference on Multimedia Retrieval (ICMR)", 16-19 June, Amsterdam, The Netherlands
 - Area Chair member "IEEE International Conference on Multimedia & Expo (ICME)", 5-9 July, Bangkok, Thailand
 
-#### 2025
+### 2025
 
 - Director of the Media Integration and Communication Center (MICC) of the University of Florence
 - NVIDIA AI Technology Center (NVAITC) Scientific Advisory Board member
@@ -30,21 +28,21 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "IEEE/CVF Winter Conference on Applications of Computer Vision 2026", 6-10 Mar, Tucson, USA, 2026
 - Technical Program Committee member "IEEE/CVF Conference on Computer Vision and Pattern Recognition 2026", 3-7 Jun, Denver, USA, 2026
 
-#### 2024
+### 2024
 
 - Direttore del Media Integration and Communication Center (MICC) dell'Universita di Firenze
 - NVIDIA AI Technology Center Italy (NVAITC) Scientific Advisory Board member
 - ACM Multimedia Steering Committee member at-large (fino a 2027)
 - Technical Program Committee member "ACM International Conference on Multimedia (ACM MM)", 28 Oct- 1 Nov., Melbourne, Australia
 
-#### 2023
+### 2023
 
 - Direttore del Media Integration and Communication Center (MICC) dell'Universita di Firenze
 - NVIDIA AI Technology Center Italy (NVAITC) Scientific Advisory Board member
 - Program Co-Chair, "ACM International Conference on Multimedia (ACM MM)", 30 Oct- 2 Nov., Ottawa, Canada.
 - Technical Program Committee member "27th International Conference on Pattern Recognition (ICPR)", June 12-15, Thessaloniki, Greece
 
-#### 2022
+### 2022
 
 - Direttore del Media Integration and Communication Center (MICC) dell'Universita di Firenze
 - Competitions Chair, "26th International Conference on Pattern Recognition (ICPR)", 21-25 Agosto, Montreal, Canada
@@ -56,7 +54,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "ACM International Conference on Multimedia Retrieval (ICMR)", June 27-30, Newark, NJ, USA
 - Technical Program Committee member "International Conference on Content-based Multimedia Indexing (CBMI)", September 14-16, Graz, Austria
 
-#### 2021
+### 2021
 
 - Direttore del Media Integration and Communication Center (MICC) dell'Universita di Firenze
 - Competitions Chair, "25th International Conference on Pattern Recognition (ICPR)", 10-15 Gennaio, Milano, Italia
@@ -67,7 +65,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "IEEE International Conference on Multimedia & Expo (ICME)", July 5-9, Shenzen, China
 - Technical Program Committee member " ACM International Conference on Multimedia Retrieval (ICMR)", July 12-15, Taipei, Taiwan
 
-#### 2020
+### 2020
 
 - Associate Editor di Multimedia Tools and Applications (MTAP)
 - Direttore del Media Integration and Communication Center (MICC) dell'Universita di Firenze
@@ -79,7 +77,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "ACM International Conference on Multimedia Retrieval (ICMR)", 8-11 June, Dublin, Ireland.
 - Technical Program Committee member "International Conference on Content-Based Multimedia Indexing (CBMI)", 2-4 September, Lille, France.
 
-#### 2019
+### 2019
 
 - Associate Editor IEEE Transactions on Multimedia
 - Program co-chair, "ACM International Conference on Multimedia Retrieval (ICMR)", June 10-13, Ottawa, Canada
@@ -89,7 +87,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Membro del comitato di gestione del Centro per la Comunicazione e l'Integrazione dei Media - Universita degli Studi di Firenze
 - Technical Program Committee member "IEEE International Conference on Multimedia (ICME)", July 8-12, Shangai, Cina
 
-#### 2018
+### 2018
 
 - Associate Editor IEEE Transactions on Multimedia
 - General co-chair "International Conference on Content-Based Multimedia Indexing (CBMI)", Sept. 4-6, La Rochelle, France
@@ -103,7 +101,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "IEEE International Conference on Multimedia (ICME)", July 23-27, San Diego, USA
 - Technical Program Committee member "IEEE Image, Video, and Multidimensional Signal Processing (IVMSP)", 10-12 June, Zagori, Greece
 
-#### 2017
+### 2017
 
 - Associate Editor IEEE Transactions on Multimedia
 - General chair "International Workshop on Content Based Multimedia Indexing (CBMI)", Giu 19-21, Firenze, Italia
@@ -116,7 +114,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "ACM International Conference on Multimedia Retrieval (ICMR)", June 6-9, Bucharest, Romania
 - Technical Program Committee member "22nd Iberoamerican Congress on Pattern Recognition (CIARP)", 7-10 November 2017, Valparaiso, Chile
 
-#### 2016
+### 2016
 
 - Video track chair "ACM Multimedia (ACM MM)", 15-19 Oct., Amsterdam, The Netherlands
 - Membro del comitato di gestione del Centro per la Comunicazione e l'Integrazione dei Media - Universita degli Studi di Firenze
@@ -129,7 +127,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "4th International Workshop on Linked Media (LiME)", Heraklion, Greece, May 29-June 2.
 - Technical Program Committee member "Visual Communications and Image Processing (VCIP)", November 27-30, ChengDu, China
 
-#### 2015
+### 2015
 
 - Associate Editor 2015-2016 IEEE Transactions on Multimedia
 - Technical Program co-chair "International Workshop on Content Based Multimedia Indexing (CBMI)", 10-12 June, Prague, Czech Republic
@@ -144,7 +142,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "IEEE International Conference on Semantic Computing (ICSC)", 9-11 Nov., Anaheim, California, USA
 - Technical Program Committee member "ACM Multimedia Systems (MMSYS) - Dataset track", March, Portland, USA
 
-#### 2014
+### 2014
 
 - Membro del comitato ordinatore del Master in Multimedia dell'Universita di Firenze
 - General co-chair "Workshop on Web-scale Vision and Social Media (VSM)" in congiunzione con CVPR 2014, 23-28 Giugno, Columbus, Ohio, USA
@@ -161,7 +159,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Program Committee Member "International Conference on Internet Multimedia Computing and Service (ICIMCS)", July 10-12, Xiamen, China
 - Program Committee Member of the track Multimedia Information Retrieval and Applications (MIRA) of the 10th International conference SITIS 2014, November 23-27, Marrakech, Morocco
 
-#### 2013
+### 2013
 
 - Membro del comitato ordinatore del Master in Multimedia dell'Universita di Firenze
 - Publicity co-chair per ACM Multimedia 2013, 21-25 Ottobre, Barcellona, Spagna
@@ -177,7 +175,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Program Committee Member "9th International Conference on Signal Image Technology & Internet Based Systems", December 2-5, Kyoto, Japan
 - Program Committee Member "ICCV Workshop on Action Recognition with a Large Number of Classes (THUMOS)", in conjunction with ICCV, Sydney, Australia
 
-#### 2012
+### 2012
 
 - General co-chair "Workshop on Web-scale Vision and Social Media (VSM)" in congiunzione con ECCV 2012, 7-13 Ottobre, Firenze, Italia
 - General co-chair "3rd IEEE ARTEMIS 2012 International Workshop on Analysis and Retrieval of Tracked Events and Motion in Imagery Streams" in congiunzione con ECCV 2012, 13 Ottobre, Firenze, Italia
@@ -197,7 +195,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member "Sixth International Conference on Innovative Mobile and Internet Services in Ubiquitous Computing (IMIS-2012)", 4-6 Luglio, Palermo, Italy
 - Technical Program Committee member "IRCDL 2012 - 8th Italian Research Conference on Digital Libraries", 9-10 Febbraio, Bari, Italy
 
-#### 2011
+### 2011
 
 - Co-chair "2nd IEEE Workshop on Analysis and Retrieval of Tracked Events and Motion in Imagery Streams (ARTEMIS)", 12 Novembre, Barcellona, Spain
 - Session chair "2<sup>a</sup> poster session di ACM International Conference on Multimedia Retrieval (ICMR)", 17-20 Aprile, Trento, Italia
@@ -214,7 +212,7 @@ Editorial boards, conference organization, steering committees, etc.
 - Program Committee member 17<sup>th</sup> International Conference on Multimedia Modeling (MMM 2011)
 - Program Committee member 7<sup>th</sup> Italian Research Conference on Digital Libraries - IRCDL 2011, 20-21 Gennaio, Pisa, Italia.
 
-#### 2010
+### 2010
 
 - Open Source Software Competition Chair per ACM Multimedia (ACM MM 2010), Firenze, Italia, 25-29 Ottobre.
 - Program Area Chair for the ACM ARTEMIS2010: First ACM International Workshop on Analysis and Retrieval of Tracked Events and Motion in Imagery Streams, in conjunction with ACM Multimedia 2010.
@@ -227,32 +225,32 @@ Editorial boards, conference organization, steering committees, etc.
 - Technical Program Committee member per ACM Multimedia (ACM MM 2010) Applications Track, Firenze, Italia, 25-29 Ottobre.
 - Technical Program Committee member per 8th Workshop on Content-based Multimedia Indexing (CBMI 2010), Grenoble, Francia, 23-25 Giugno.
 
-#### 2009
+### 2009
 
 - Technical Program Committee member per 6th IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS), Genoa, Italy, 2-4 Settembre.
 - International Program Committee member per Second International Workshop on Tracking Humans for the Evaluation of their Motion in Image Sequences (THEMIS'2009), in conjunction with ICCV2009, 29th September - 2 Ottobre, Kyoto, Japan.
 - Technical Program Committee member per 15<sup>th</sup> International Multimedia Modeling Conference (MMM), 7-9 January, Sophia-Antipolis, France
 
-#### 2008
+### 2008
 
 - Technical Program Committee member per 15<sup>th</sup> International Multimedia Modeling Conference (MMM), 7-9 Gennaio 2009, Eurecom, Sophia-Antipolis, Francia
 - International Program Committee member per First International Workshop on Tracking Humans for the Evaluation of their Motion in Image Sequences (THEMIS'2008), in congiunzione con BMVC 2008, 1-4 Settembre, Leeds, UK.
 
-#### 2007
+### 2007
 
 - Session chair per International Workshop on Visual and Multimedia Digital Libraries (VMDL) 2007, 13-14 Settembre, Modena
 - Session chair per 9th ACM SIGMM International Workshop on Multimedia Information Retrieval, 28-29 Settembre, 2007, University of Augsburg, Germany
 
-#### 2006
+### 2006
 
 - Program committee member per VSSN 2006 - 4<sup>th</sup> ACM International Workshop on Video Surveillance & Sensor Networks in conjunction with ACM Multimedia 2006, Santa Barbara, USA, Ottobre
 - Program committee chair per CVBASE '06 - Workshop on Computer Vision Based Analysis in Sport Environments in conjunction with ECCV 2006, Graz, Austria, 12 Maggio.
 
-#### 2005
+### 2005
 
 - Proceedings Chair per Delos Int. Workshop on Audio-Visual Content and Information Visualization in Digital Libraries (AVIVDLib), 4-6 Maggio.
 
-#### 1999
+### 1999
 
 - Local Technical Committee member di IEEE International Conference on Multimedia Computing and Systems ICMCS'99, Firenze.
 - Revisore per riviste e conferenze internazionali (dal 2000):
