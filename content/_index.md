@@ -15,15 +15,24 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: |-
-        Hi ! I'm Marco Bertini and I'm Associate Professor in Computer Science at the University of Florence, Italy. 
-        I'm working at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it) at the [University of Florence](https://www.unifi.it/), where I serve as Director of the center since 2020.
+        Hi ! I'm Marco Bertini and I'm Associate Professor in Computer Science at the University of Florence (Italy), with over 25 of experience in 
+        computer vision, multimedia analysis, indexing, and retrieval, contributing to advancements in multimedia research and EU-funded projects.
+        I'm working at the [Media Integration and Communication Center (MICC)](https://www.micc.unifi.it) at the [University of Florence](https://www.unifi.it/), 
+        where I serve as Director of the center since 2020.
 
-        MICC is a research and transfer center where we research innovative solutions for the application of computer vision, AI, multimedia and information technologies, including computer vision, 3D acquisition and modeling, automatic recognition techniques, solutions for natural human-machine interaction, multimedia installations.
-
-        I've been involved in 10 EU research projects among which IM3I, euTV, ORUSSI, UMETECH, and more recently [AI4Media](https://www.ai4media.eu) and [ReInHerit](https://www.reinherit.eu), in different roles. 
+        MICC is a research and transfer center where we research innovative solutions for the application of computer vision, AI, multimedia 
+        and information technologies, including computer vision, 3D acquisition and modeling, automatic recognition techniques, 
+        solutions for natural human-machine interaction, multimedia installations.
+        
+        I've been involved in 10 EU research projects among which IM3I, euTV, ORUSSI, UMETECH, and more recently [AI4Media](https://www.ai4media.eu) 
+        and [ReInHerit](https://www.reinherit.eu), in different roles. 
         I'm currently P.I. of 4 national and regional technology transfer projects. 
         
-        I'm also a co-founder of [Small Pixels](https://smallpixels.ai), an academic spin-off that has developed innovative GenAI solutions for video quality improvement and enhanced video compression.
+        I'm also a co-founder of [Small Pixels](https://smallpixels.ai), an academic spin-off that has developed innovative GenAI solutions 
+        for video quality improvement and enhanced video compression.
+        As co-founder of Small Pixels, I contribute to cutting-edge technology designed to improve video quality and reduce streaming 
+        costs using deep neural networks. Over the past five years, we have focused on helping users experience high-quality visuals 
+        from compressed video streams, revolutionizing video quality enhancement.
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Full CV
